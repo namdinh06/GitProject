@@ -1,0 +1,1 @@
+Em lần mò mất 2 ngày mới push được source lên git repo , một đống lỗi luôn , nhưng mà em được thầy chỉ cách tự search và sửa lỗi, em nghĩ nó sẽ giúp em nhiều ở những lần gặp lỗi tiếp theo, thanks sir Vinh very much :3
